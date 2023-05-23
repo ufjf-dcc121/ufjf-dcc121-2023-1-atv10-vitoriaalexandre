@@ -7,6 +7,15 @@ main{
 
 }
 
+header h1{
+    margin-bottom: 0;
+}
+
+header h2{
+    margin-top: 0.2rem;
+    opacity: 0.6;
+}
+
 #formulario, #itens {
     width: 200px;
 }
@@ -17,4 +26,6 @@ main{
 
 section > h1 {
     margin-top: 0;
+    font-size: 1.2rem;
 }
+
