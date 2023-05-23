@@ -8,7 +8,8 @@ main{
 }
 
 header h1{
-    margin-bottom: 0;
+    background-color: pink;
+    color: white;
 }
 
 header h2{
